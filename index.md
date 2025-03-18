@@ -191,7 +191,7 @@ Jupyter Notebook {fas}`arrow-right`
 
 I would love to create a community where people worldwide can add onto to this open-source resource/book. At a very high level, this is just a collection of Jupyter Notebooks that implement a machine learning algorithm.
 
-If you have a Jupyter Notebook that you want to add to this book, feel free to make a pull request to the [GitHub Repository](https://github.com/gavinkhung/machine-learning-visualized). This is a reference commit showing all of the necessary code changes.
+If you have a Jupyter Notebook that you want to add to this book, feel free to make a pull request to the [GitHub Repository](https://github.com/gavinkhung/machine-learning-visualized). This is a [reference commit showing all of the necessary code changes](https://github.com/gavinkhung/machine-learning-visualized/commit/98900877d3d1a42c972b3e618ad46968f02513cb).
 
 Note: You need to upload your Notebook to your own GitHub repository. Assuming you follow the reference commit, the build process for this Jupyter Book will simply download your `.ipynb` file and update the GitHub Pages after the pull request is approved.
 
