@@ -16,6 +16,36 @@ Extending on linear models, multiple layers will be stacked and new activation f
 :gutter: 3
 
 :::{grid-item-card}
+:link: /machine-learning-visualized/chapter4/neural_network_weights
+:class-header: bg-light
+
+**Neural Network Loss Landscape**
+^^^
+
+```{image} https://raw.githubusercontent.com/gavinkhung/neural-network/refs/heads/main/neural_network_weights_loss_landscape.gif
+:width: 100%
+```
+
++++
+Jupyter Notebook {fas}`arrow-right`
+:::
+
+:::{grid-item-card}
+:link: /machine-learning-visualized/chapter4/neural_network_weights
+:class-header: bg-light
+
+**Neural Network Transformations**
+^^^
+
+```{image} https://raw.githubusercontent.com/gavinkhung/neural-network/main/neural_network_weights.gif
+:width: 100%
+```
+
++++
+Jupyter Notebook {fas}`arrow-right`
+:::
+
+:::{grid-item-card}
 :link: /machine-learning-visualized/chapter4/neural_network
 :class-header: bg-light
 

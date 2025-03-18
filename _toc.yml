@@ -18,3 +18,4 @@ parts:
   - caption: Chapter 4. Neural Networks
     chapters:
     - file: chapter4/neural_network
+    - file: chapter4/neural_network_weights

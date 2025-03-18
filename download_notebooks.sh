@@ -13,3 +13,5 @@ curl -o chapter3/perceptron.ipynb https://raw.githubusercontent.com/gavinkhung/p
 curl -o chapter4/neural_network.ipynb https://raw.githubusercontent.com/gavinkhung/neural-network/refs/heads/main/neural_network.ipynb
 curl -o chapter4/plot/nn.svg https://raw.githubusercontent.com/gavinkhung/neural-network/refs/heads/main/plot/nn.svg
 curl -o chapter4/plot/architecture/nn-1.png https://raw.githubusercontent.com/gavinkhung/neural-network/refs/heads/main/plot/architecture/nn-1.png
+
+curl -o chapter4/neural_network_weights.ipynb https://raw.githubusercontent.com/gavinkhung/neural-network/refs/heads/main/neural_network_weights.ipynb
