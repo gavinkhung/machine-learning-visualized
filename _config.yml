@@ -31,7 +31,7 @@ html:
   extra_css: 
     - _static/custom.css'
   analytics:
-    google_analytics_id: G-XXXXXXX
+    google_analytics_id: G-9S2CQ3B60T
 
 sphinx:
   recursive_update: true
