@@ -1,0 +1,7 @@
+services:
+  jupyter-book:
+    build: .
+    container_name: jupyter-book
+    command: jupyter-book build .
+    volumes:
+      - .:/usr/src/app

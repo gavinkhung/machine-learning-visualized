@@ -1,0 +1,48 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Machine Learning Visualized
+author: Gavin Hung
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  # execute_notebooks: force
+  execute_notebooks: 'off'
+  # execute_notebooks: cache
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/gavinkhung/machine-learning-visualized  # Online location of your book
+  path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: master  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  favicon: logo.png
+  use_issues_button: true
+  use_repository_button: true
+  extra_css: 
+    - _static/custom.css'
+  analytics:
+    google_analytics_id: G-XXXXXXX
+
+sphinx:
+  recursive_update: true
+  config:
+    language: en
+#     html_theme: pydata_sphinx_theme
+    # html_theme: furo
+    html_show_copyright: false
+    html_context:
+      default_mode: light
+  extra_extensions:
+    - 'sphinx.ext.autodoc'
+  html_theme_options:
+    sidebar_toggle: false

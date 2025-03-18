@@ -1,0 +1,40 @@
+:root {
+  --pst-font-family-heading: Georgia, serif !important;
+}
+
+root,
+body,
+body p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.header-style,
+.toc-header,
+div.cell_output,
+.rst-content,
+.notebook_app,
+.rendered_html {
+  font-family: Georgia, serif !important;
+}
+
+.bd-article-container,
+.bd-content {
+  font-family: Georgia, serif !important;
+}
+
+.header-article .header-article-main h1,
+.header-article .header-article-main h2,
+.header-article .header-article-main h3 {
+  font-family: Georgia, serif !important;
+}
+
+.bd-sidebar {
+  font-family: Georgia, serif !important;
+}
+
+button.sidebar-toggle.primary-toggle {
+  display: none;
+}
