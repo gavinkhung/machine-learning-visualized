@@ -16,7 +16,7 @@ Extending on linear models, multiple layers will be stacked and new activation f
 :gutter: 3
 
 :::{grid-item-card}
-:link: /machine-learning-visualized/chapter4/neural_network_weights
+:link: /chapter4/neural_network_weights
 :class-header: bg-light
 
 **Neural Network Loss Landscape**
@@ -31,7 +31,7 @@ Jupyter Notebook {fas}`arrow-right`
 :::
 
 :::{grid-item-card}
-:link: /machine-learning-visualized/chapter4/neural_network_weights
+:link: /chapter4/neural_network_weights
 :class-header: bg-light
 
 **Neural Network Transformations**
@@ -46,7 +46,7 @@ Jupyter Notebook {fas}`arrow-right`
 :::
 
 :::{grid-item-card}
-:link: /machine-learning-visualized/chapter4/neural_network
+:link: /chapter4/neural_network
 :class-header: bg-light
 
 **Neural Network Function Approximation**
@@ -61,7 +61,7 @@ Jupyter Notebook {fas}`arrow-right`
 :::
 
 :::{grid-item-card}
-:link: /machine-learning-visualized/chapter4/neural_network
+:link: /chapter4/neural_network
 :class-header: bg-light
 
 **Neural Network Backpropagation**
@@ -86,7 +86,7 @@ Linear models, like Perceptrons, predict outcomes by applying a linear combinati
 :gutter: 3
 
 :::{grid-item-card}
-:link: /machine-learning-visualized/chapter3/logistic_regression
+:link: /chapter3/logistic_regression
 :class-header: bg-light
 
 **Logistic Regression**
@@ -101,7 +101,7 @@ Jupyter Notebook {fas}`arrow-right`
 :::
 
 :::{grid-item-card}
-:link: /machine-learning-visualized/chapter3/perceptron
+:link: /chapter3/perceptron
 :class-header: bg-light
 
 **Perceptron**
@@ -126,7 +126,7 @@ Given that machine learning models learn parameters from training data, it is im
 :gutter: 3
 
 :::{grid-item-card}
-:link: /machine-learning-visualized/chapter2/k_means
+:link: /chapter2/k_means
 :class-header: bg-light
 
 **K-Means Clustering**
@@ -141,7 +141,7 @@ Jupyter Notebook {fas}`arrow-right`
 :::
 
 :::{grid-item-card}
-:link: /machine-learning-visualized/chapter2/pca
+:link: /chapter2/pca
 :class-header: bg-light
 
 **Principal Component Analysis**
@@ -166,7 +166,7 @@ This is the process of finding the optimal input parameters that minimize the va
 :gutter: 3
 
 :::{grid-item-card}
-:link: /machine-learning-visualized/chapter1/linear_regression
+:link: /chapter1/linear_regression
 :class-header: bg-light
 
 **Gradient Descent**
