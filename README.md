@@ -1,6 +1,6 @@
 # Machine Learning Visualized
 
-![website](output.png)
+![website](gifs/home.gif)
 
 URL: [https://ml-visualized.com/](https://ml-visualized.com/)
 
@@ -64,3 +64,13 @@ docker run --rm -v "$(pwd)":/usr/src/app jupyter-book
 ### Step 3: Open the Jupyter Book
 
 Navigate to `_build/html/index.html`
+
+## Output
+
+### Marimo Interactive Notebooks
+
+![Marimo](gifs/marimo.gif)
+
+### Mathematically Explained
+
+![latex](gifs/latex.gif)
