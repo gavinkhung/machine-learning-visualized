@@ -1,8 +1,12 @@
 # Machine Learning Visualized
 
-URL: [https://gavinkhung.github.io/machine-learning-visualized/](https://gavinkhung.github.io/machine-learning-visualized/)
+![website](output.png)
+
+URL: [https://ml-visualized.com/](https://ml-visualized.com/)
 
 Machine Learning Visualized is a [Jupyter Book](https://jupyterbook.org/en/stable/intro.html) containing Jupyter Notebooks that implement and mathematically derive machine learning algorithms from first-principles.
+
+There are also Interactive Notebooks built with Marimo that allow you to see how the weights influence the loss functions.
 
 The output of each notebook is a visualization of the machine learning algorithm throughout its training phase, ultimately converging at its optimal weights.
 
