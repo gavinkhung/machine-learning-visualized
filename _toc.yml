@@ -6,6 +6,7 @@ root: index
 parts:
   - caption: Chapter 1. Optimization
     chapters:
+    - file: chapter1/interactive_linear_regression
     - file: chapter1/linear_regression
   - caption: Chapter 2. Clustering and Reduction
     chapters:
@@ -13,6 +14,8 @@ parts:
     - file: chapter2/k_means
   - caption: Chapter 3. Linear Models
     chapters:
+    - file: chapter3/interactive_perceptron
+    - file: chapter3/interactive_logistic_regression
     - file: chapter3/perceptron
     - file: chapter3/logistic_regression
   - caption: Chapter 4. Neural Networks
