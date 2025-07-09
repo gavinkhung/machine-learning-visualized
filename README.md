@@ -59,6 +59,10 @@ docker compose down --volumes --rmi local
 ```sh
 docker build -t jupyter-book .
 docker run --rm -v "$(pwd)":/usr/src/app jupyter-book
+
+docker stop jupyter-book
+docker rm jupyter-book
+docker rmi jupyter-book
 ```
 
 ### Step 3: Open the Jupyter Book

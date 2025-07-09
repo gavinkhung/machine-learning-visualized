@@ -1,4 +1,4 @@
-# Interactive Gradient Descent
+# Interactive Activation Functions
 
 Adjust the slider values to see how the parameters affect the loss function. Gradient Descent will find the optimal parameters that minimize our loss function
 
