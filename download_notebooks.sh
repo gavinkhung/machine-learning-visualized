@@ -1,5 +1,6 @@
 # Chapter 1
 curl -o chapter1/linear_regression.ipynb https://raw.githubusercontent.com/gavinkhung/gradient-descent/refs/heads/main/linear_regression.ipynb
+curl -o chapter1/REGRESSION-gradientDescent-data.txt https://raw.githubusercontent.com/gavinkhung/gradient-descent/refs/heads/main/REGRESSION-gradientDescent-data.txt
 
 # Chapter 2
 curl -o chapter2/pca.ipynb https://raw.githubusercontent.com/gavinkhung/pca/refs/heads/main/pca.ipynb
