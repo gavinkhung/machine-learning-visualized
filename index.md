@@ -119,7 +119,7 @@ Jupyter Notebook {fas}`arrow-right`
 
 ## Chapter 2. Clustering and Reduction
 
-Given that machine learning models learn parameters from training data, it is important to conduct analysis on your data. Principal Component Analysis is a method of compressing your data and finding the features that account for most of the variance, allowing you to focus training on those inputs. K-Means if an unsupervised clustering algorithm that allows you to find groups of related data points, which is important for data preprocessing and identifying outliers.
+Given that machine learning models learn parameters from training data, it is important to conduct analysis on your data. Principal Component Analysis is a method of compressing your data and finding the features that account for most of the variance, allowing you to focus training on those inputs. K-Means is an unsupervised clustering algorithm that allows you to find groups of related data points, which is important for data preprocessing and identifying outliers.
 
 ::::{grid} 1 1 2 2
 :class-container: text-center
