@@ -50,14 +50,14 @@ jupyter-book build .
 #### Option 2: Docker Compose
 
 ```sh
-docker compose up
+docker compose run jupyter-book 
 docker compose down --volumes --rmi local
 ```
 
 #### Option 3: Docker
 
 ```sh
-docker build -t jupyter-book .
+docker build -f Dockerfile.book -t jupyter-book .
 docker run --rm -v "$(pwd)":/usr/src/app jupyter-book
 
 docker stop jupyter-book
@@ -68,6 +68,17 @@ docker rmi jupyter-book
 ### Step 3: Open the Jupyter Book
 
 Navigate to `_build/html/index.html`
+
+## Build EPUB (NEW)
+
+```sh
+brew install --cask mactex
+nbmerge $(ls chapter1/*.ipynb chapter2/*.ipynb chapter3/*.ipynb chapter4/*.ipynb | sort) -o book/combined.ipynb
+jupyter nbconvert --to latex book/combined.ipynb
+
+docker build -f Dockerfile.pandoc -t my-pandoc .
+docker run --rm -v $(pwd):/data my-pandoc pandoc book/main.tex -o book/main.epub --mathml --embed-resources --standalone
+```
 
 ## Output
 

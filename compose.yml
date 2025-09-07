@@ -1,7 +1,18 @@
 services:
   jupyter-book:
-    build: .
+    build:
+      context: .
+      dockerfile: Dockerfile.book
     container_name: jupyter-book
     command: jupyter-book build .
     volumes:
       - .:/usr/src/app
+
+  pandoc:
+    platform: linux/amd64
+    build:
+      context: .
+      dockerfile: Dockerfile.pandoc
+    container_name: pandoc-container
+    volumes:
+      - .:/data

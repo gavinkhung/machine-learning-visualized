@@ -1,0 +1,8 @@
+FROM pandoc/latex
+
+RUN apk add --no-cache \
+  texlive \
+  ghostscript
+
+WORKDIR /data
+COPY . /data
