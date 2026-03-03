@@ -1,4 +1,4 @@
-jupyter-book
+jupyter-book<2
 matplotlib
 numpy
 pydata-sphinx-theme<0.15.3

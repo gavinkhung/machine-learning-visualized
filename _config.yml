@@ -29,7 +29,7 @@ html:
   use_issues_button: true
   use_repository_button: true
   extra_css: 
-    - _static/custom.css'
+    - _static/custom.css
   analytics:
     google_analytics_id: G-9S2CQ3B60T
 
