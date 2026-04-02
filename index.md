@@ -1,6 +1,6 @@
 # Machine Learning Visualized
 
-Book of Jupyter Notebooks that implement and mathematically derive machine learning algorithms from first-principles. The output of each notebook is a visualization of the machine learning algorithm throughout its training phase, ultimately converging at its optimal weights. Happy Learning! -- Gavin
+Book of Jupyter Notebooks that implement and mathematically derive machine learning algorithms from first-principles. The output of each notebook is a visualization of the machine learning algorithm throughout its training phase, ultimately converging at its optimal weights. Happy Learning! -- [Gavin H](https://www.linkedin.com/in/gavinkhung/)
 
 ```{only} html
 [![](https://img.shields.io/github/stars/gavinkhung/machine-learning-visualized?style=social)](https://github.com/gavinkhung/machine-learning-visualized)
