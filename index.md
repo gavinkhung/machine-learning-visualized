@@ -80,7 +80,7 @@ Jupyter Notebook {fas}`arrow-right`
 
 ## Chapter 3. Linear Models and Activation Function
 
-Linear models, like Perceptrons, predict outcomes by applying a linear combination on the input features. The parameters from the applied linear combination are learned from optimization algorithms, like gradient descent. This is a singe-layer neural network without an activation function. Logistic Regression extends the idea of a perceptron by introducing an activation function, called Sigmoid, and the binary cross entropy loss function.
+Linear models, like Perceptrons, predict outcomes by applying a linear combination on the input features. The parameters from the applied linear combination are learned from optimization algorithms, like gradient descent. This is a single-layer neural network without an activation function. Logistic Regression extends the idea of a perceptron by introducing an activation function, called Sigmoid, and the binary cross entropy loss function. Logistic Regression extends the idea of a perceptron by introducing an activation function, called Sigmoid, and the binary cross entropy loss function.
 
 ::::{grid} 1 1 2 2
 :class-container: text-center
@@ -221,10 +221,10 @@ Chapter 1:
 Chapter 2:
 
 - [Principal Component Analysis Notes](https://github.com/gavinkhung/pca/blob/main/pca.pdf)
-- [Perceptron Notes](https://github.com/gavinkhung/perceptron/blob/main/perceptron.pdf)
 
 Chapter 3:
 
+- [Perceptron Notes](https://github.com/gavinkhung/perceptron/blob/main/perceptron.pdf)
 - [Naive Bayes and Maximum Likelihood Estimation Notes](https://github.com/gavinkhung/logistic-regression/blob/main/maximum-likelihood.pdf)
 - [Logistic Regression Notes](https://github.com/gavinkhung/logistic-regression/blob/main/logistic-regression.pdf)
 - [Softmax Regression](https://github.com/gavinkhung/logistic-regression/blob/main/softmax.pdf)
