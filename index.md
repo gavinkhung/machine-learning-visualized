@@ -5,6 +5,7 @@ Book of Jupyter Notebooks that implement and mathematically derive machine learn
 ```{only} html
 [![](https://img.shields.io/github/stars/gavinkhung/machine-learning-visualized?style=social)](https://github.com/gavinkhung/machine-learning-visualized)
 [![](https://img.shields.io/github/forks/gavinkhung/machine-learning-visualized?style=social)](https://github.com/gavinkhung/machine-learning-visualized)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ```
 
 ## Chapter 4. Neural Networks
@@ -232,3 +233,15 @@ Chapter 4:
 
 - [Neural Networks Forward Propagation Notes](https://github.com/gavinkhung/neural-network/blob/main/forward-propagation.pdf)
 - [Neural Networks Back Propagation Notes](https://github.com/gavinkhung/neural-network/blob/main/back-propagation.pdf)
+
+<!-- ## Analytics
+
+<iframe
+  width="100%"
+  height="500px"
+  src="https://datastudio.google.com/embed/reporting/a767567e-8bac-4613-9c17-599a164a6638/page/kIV1C"
+  frameborder="0"
+  style="border: 0"
+  allowfullscreen
+  sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"
+></iframe> -->
