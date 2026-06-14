@@ -50,8 +50,8 @@ jupyter-book build .
 #### Option 2: Docker Compose
 
 ```sh
-docker compose run jupyter-book 
-docker compose down --volumes --rmi local
+docker compose run --rm jupyter-book
+docker compose down --remove-orphans --volumes --rmi local
 ```
 
 #### Option 3: Docker

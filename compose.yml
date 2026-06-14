@@ -4,7 +4,7 @@ services:
       context: .
       dockerfile: Dockerfile.book
     container_name: jupyter-book
-    command: jupyter-book build .
+    command: bash -c "chmod +x ./download_notebooks.sh && ./download_notebooks.sh && jupyter-book build ."
     volumes:
       - .:/usr/src/app
 
