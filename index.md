@@ -180,6 +180,21 @@ This is the process of finding the optimal input parameters that minimize the va
 Jupyter Notebook {fas}`arrow-right`
 :::
 
+:::{grid-item-card}
+:link: /chapter1/optimizers
+:class-header: bg-light
+
+**Optimizers**
+^^^
+
+```{image} https://raw.githubusercontent.com/gavinkhung/optimizers/refs/heads/main/optimizers_pytorch.gif
+:width: 100%
+```
+
++++
+Jupyter Notebook {fas}`arrow-right`
+:::
+
 ::::
 
 <!-- ## Table of Contents

@@ -10,6 +10,7 @@ download() {
 # Chapter 1
 download chapter1/linear_regression.ipynb https://raw.githubusercontent.com/gavinkhung/gradient-descent/refs/heads/main/linear_regression.ipynb
 download chapter1/REGRESSION-gradientDescent-data.txt https://raw.githubusercontent.com/gavinkhung/gradient-descent/refs/heads/main/REGRESSION-gradientDescent-data.txt
+download chapter1/optimizers.ipynb https://raw.githubusercontent.com/gavinkhung/optimizers/refs/heads/main/optimizers.ipynb
 
 # Chapter 2
 download chapter2/pca.ipynb https://raw.githubusercontent.com/gavinkhung/pca/refs/heads/main/pca.ipynb

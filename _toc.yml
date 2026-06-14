@@ -7,6 +7,7 @@ parts:
   - caption: Chapter 1. Optimization
     chapters:
     - file: chapter1/linear_regression
+    - file: chapter1/optimizers
     - file: chapter1/interactive_linear_regression
   - caption: Chapter 2. Clustering and Reduction
     chapters:
