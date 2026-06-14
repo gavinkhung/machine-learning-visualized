@@ -1,6 +1,6 @@
-# Interactive Activation Functions
+# Interactive Linear Regression
 
-Adjust the slider values to see how the parameters affect the loss function. Gradient Descent will find the optimal parameters that minimize our loss function
+Adjust the slider values to see how the parameters affect the loss function. Gradient Descent will find the optimal parameters that minimize our loss function.
 
 <iframe
   src="https://marimo.app/l/9hsfob?show-code=false&embed=true"

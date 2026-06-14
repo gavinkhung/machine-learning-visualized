@@ -77,7 +77,7 @@ nbmerge $(ls chapter1/*.ipynb chapter2/*.ipynb chapter3/*.ipynb chapter4/*.ipynb
 jupyter nbconvert --to latex book/combined.ipynb
 
 docker build -f Dockerfile.pandoc -t my-pandoc .
-docker run --rm -v $(pwd):/data my-pandoc pandoc book/main.tex -o book/main.epub --mathml --embed-resources --standalone
+docker run --rm -v $(pwd):/data my-pandoc pandoc book/combined.tex -o book/combined.epub --mathml --embed-resources --standalone
 ```
 
 ## Output

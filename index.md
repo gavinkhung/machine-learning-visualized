@@ -5,7 +5,6 @@ Book of Jupyter Notebooks that implement and mathematically derive machine learn
 ```{only} html
 [![](https://img.shields.io/github/stars/gavinkhung/machine-learning-visualized?style=social)](https://github.com/gavinkhung/machine-learning-visualized)
 [![](https://img.shields.io/github/forks/gavinkhung/machine-learning-visualized?style=social)](https://github.com/gavinkhung/machine-learning-visualized)
-[![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](https://opensource.org/licenses/MIT)
 ```
 
 ## Chapter 4. Neural Networks
@@ -80,7 +79,7 @@ Jupyter Notebook {fas}`arrow-right`
 
 ## Chapter 3. Linear Models and Activation Function
 
-Linear models, like Perceptrons, predict outcomes by applying a linear combination on the input features. The parameters from the applied linear combination are learned from optimization algorithms, like gradient descent. This is a single-layer neural network without an activation function. Logistic Regression extends the idea of a perceptron by introducing an activation function, called Sigmoid, and the binary cross entropy loss function. Logistic Regression extends the idea of a perceptron by introducing an activation function, called Sigmoid, and the binary cross entropy loss function.
+Linear models, like Perceptrons, predict outcomes by applying a linear combination on the input features. The parameters from the applied linear combination are learned from optimization algorithms, like gradient descent. This is a single-layer neural network without an activation function. Logistic Regression extends the idea of a perceptron by introducing an activation function, called Sigmoid, and the binary cross entropy loss function.
 
 ::::{grid} 1 1 2 2
 :class-container: text-center
@@ -189,6 +188,10 @@ Jupyter Notebook {fas}`arrow-right`
 ``` -->
 
 ## Contributing
+
+```{only} html
+[![License: MIT](https://img.shields.io/badge/License-MIT-white.svg)](https://opensource.org/licenses/MIT)
+```
 
 I would love to create a community where people worldwide can add onto to this open-source resource/book. At a very high level, this is just a collection of Jupyter Notebooks that implement a machine learning algorithm.
 
