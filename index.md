@@ -75,6 +75,36 @@ Jupyter Notebook {fas}`arrow-right`
 Jupyter Notebook {fas}`arrow-right`
 :::
 
+:::{grid-item-card}
+:link: /chapter4/autoencoder
+:class-header: bg-light
+
+**Autoencoder Reconstructions**
+^^^
+
+```{image} https://raw.githubusercontent.com/gavinkhung/autoencoder/refs/heads/main/autoencoder.gif
+:width: 100%
+```
+
++++
+Jupyter Notebook {fas}`arrow-right`
+:::
+
+:::{grid-item-card}
+:link: /chapter4/autoencoder
+:class-header: bg-light
+
+**Autoencoder Latent Space**
+^^^
+
+```{image} https://raw.githubusercontent.com/gavinkhung/autoencoder/refs/heads/main/autoencoder_latent_space.gif
+:width: 100%
+```
+
++++
+Jupyter Notebook {fas}`arrow-right`
+:::
+
 ::::
 
 ## Chapter 3. Linear Models and Activation Function

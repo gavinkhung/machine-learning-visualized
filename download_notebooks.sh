@@ -26,3 +26,4 @@ download chapter4/plot/nn.svg https://raw.githubusercontent.com/gavinkhung/neura
 download chapter4/plot/architecture/nn-1.png https://raw.githubusercontent.com/gavinkhung/neural-network/refs/heads/main/plot/architecture/nn-1.png
 
 download chapter4/neural_network_weights.ipynb https://raw.githubusercontent.com/gavinkhung/neural-network/refs/heads/main/neural_network_weights.ipynb
+download chapter4/autoencoder.ipynb https://raw.githubusercontent.com/gavinkhung/autoencoder/refs/heads/main/autoencoder.ipynb

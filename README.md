@@ -15,6 +15,7 @@ There is a separate Github Repository for each machine learning algorithm. Thus,
 ## Jupyter Notebooks
 
 - [Neural Networks Repo](https://github.com/gavinkhung/neural-network)
+- [Autoencoder Repo](https://github.com/gavinkhung/autoencoder)
 - [Logistic Regression Repo](https://github.com/gavinkhung/logistic-regression)
 - [Perceptron Repo](https://github.com/gavinkhung/perceptron)
 - [Principal Component Analysis Repo](https://github.com/gavinkhung/pca)
