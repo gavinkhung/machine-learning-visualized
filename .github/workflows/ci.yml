@@ -17,12 +17,12 @@ jobs:
       pages: write
       id-token: write
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/configure-pages@v4
+    - uses: actions/checkout@v5
+    - uses: actions/configure-pages@v5
 
     # Install dependencies
     - name: Set up Python 3.11
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v7
       with:
         python-version: 3.11
     - name: Install dependencies
@@ -42,7 +42,7 @@ jobs:
     # execute:
     #   execute_notebooks: cache
     - name: Cache executed notebooks
-      uses: actions/cache@v4
+      uses: actions/cache@v5
       with:
         path: _build/.jupyter_cache
         key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
@@ -61,4 +61,4 @@ jobs:
     # Deploy the book's HTML to GitHub Pages
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v4
+      uses: actions/deploy-pages@v5
